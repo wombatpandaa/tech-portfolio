@@ -1,6 +1,6 @@
 ---
-id: projects
-title: Projects
+id: 1
+title: ListBag
 ---
 
 In my Computing Fundamentals II course, I created a ListBag object class for use in future projects.

@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+In my Computing Fundamentals II course, I created a ListBag object class for use in future projects.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+I remember last semester I really disliked these sort of projects because I didn't quite understand how methods for different types of collection objects worked. But as I've done more and more of them, I've found them getting easier and easier. This one barely gave me any difficulty at all.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+I suppose the lesson here is that repetition, while boring, is an extremely effective teaching tool and even a necessity when learning new concepts.
 
-![Add alternate text for image](./assets/rosemary.png)
+![A bag implementation I created for my Computing Fundamentals II course](./assets/Screenshot (55).png.png)

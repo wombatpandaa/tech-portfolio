@@ -9,4 +9,4 @@ I remember last semester I really disliked these sort of projects because I didn
 
 I suppose the lesson here is that repetition, while boring, is an extremely effective teaching tool and even a necessity when learning new concepts.
 
-![A bag implementation I created for my Computing Fundamentals II course](./assets/Screenshot (55).png.png)
+![A bag implementation I created for my Computing Fundamentals II course](./assets/"Screenshot (55).png")
